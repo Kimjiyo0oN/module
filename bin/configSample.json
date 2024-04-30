@@ -1,0 +1,19 @@
+{	"udtServer": {
+          "ip": "172.30.211.149",
+          "port": 8888
+    },
+    "schedulers": [
+      {
+        "name": "one",
+        "cronStr": "50 27 * * * ?",
+        "spec": "jsonformat.json",
+        "filePath" : "bin/"  
+      },
+      {
+        "name": "two",
+        "cronStr": "0/20 * * * * ?",
+        "spec": "jsonformat2.json",
+        "filePath" : "bin/"
+      }
+    ]
+  }

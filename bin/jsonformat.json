@@ -1,0 +1,8 @@
+{
+    "hostId": "{ \"dSource\": \"bin/datasource.txt\", \"key\": \"hostId\" }",
+    "mac": "dSource:bin/datasource.txt,key:mac",
+    "data1": "[\"1\",\"2\",\"3\"]",
+    "data2": "[\"a\",\"b\",\"c\",\"d\"]",
+    "data3": "[\"1.2\",\"1.5\"]",
+    "data4": "${date:yyyyMMddHHmmss}"
+}
