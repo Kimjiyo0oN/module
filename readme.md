@@ -17,7 +17,7 @@
  사용자 인터페이스 사용 안 할 시 위에 파일들을 사용하면 동작 가능
  
 ### 사용자 인터페이스 사용 시
-[localHost](http://localhost:8082/) 로 사용 
+http://localhost:8082 로 사용 
 
 - **Upload Data**
   - **설명**: Upload Data 는 단발성 데이터 전송(스케줄러X) / Data as String(datasource.txt) 형식, JSON Format(jsonformat.json) 형식 작성 후 제출 버튼
