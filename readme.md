@@ -1,53 +1,53 @@
 ## 사용 방법
 
 ### 출력 예시 
-{
-    "chNum": "VOD",
-    "bootMenu": "On",
-    "tvImpaired": "Off",
-    "voiceGuide": "On|3",
-    "stbState": "watching",
-    "resolution": "4",
-    "sendingTime": "2024/21/09 04:21",
-    "cloudVer": "1.6.12",
-    "skiCh": "11,10,15",
-    "mobilePay": "Y",
-    "miniEpgAd": "Off",
-    "easyBuying": "On",
-    "hdmiCec": "true",
-    "service env audio": "NS",
-    "morningAlarm": "repeatSetting : 1 , channelSetting : 111 , channelNum : 11 , timeSetting : 0700",
-    "audioLang": "ger",
-    "tvLock": "2",
-    "tvcaption": "5",
-    "har": "1",
-    "standbyMode": "On",
-    "limitContents": "Show",
-    "zappingAd": "0",
-    "cmIp": "10.4.58.208",
-    "cmMac": "00097475AA4B",
-    "barkerCh": "N",
-    "stbIp": "10.43.81.14",
-    "loggingTime": "2024/21/09 04:21",
-    "service env hdr": "NS",
-    "pmson": "On",
-    "hostId": "0001E9AC-9569-11E8-9832-4B58C4FE799F",
-    "homeState": "show",
-    "favCh": "09,27",
-    "runningTime": "imin",
-    "stbModel": "THX-U300",
-    "audioMode": "2",
-    "mwVer": "3.1.46",
-    "limitAge": "0",
-    "savePwr": "0",
-    "vodRelay": "off",
-    "volume": "07",
-    "vodview": "Text",
-    "localVer": "1.0.6.03",
-    "miniEpg": "5",
-    "service_env_scnratio": "NS",
-    "macAddr": "00097475AA4A",
-    "oneAdon": "false"
+{<br/>
+    "chNum": "VOD",<br/>
+    "bootMenu": "On",<br/>
+    "tvImpaired": "Off",<br/>
+    "voiceGuide": "On|3",<br/>
+    "stbState": "watching",<br/>
+    "resolution": "4",<br/>
+    "sendingTime": "2024/21/09 04:21",<br/>
+    "cloudVer": "1.6.12",<br/>
+    "skiCh": "11,10,15",<br/>
+    "mobilePay": "Y",<br/>
+    "miniEpgAd": "Off",<br/>
+    "easyBuying": "On",<br/>
+    "hdmiCec": "true",<br/>
+    "service env audio": "NS",<br/>
+    "morningAlarm": "repeatSetting : 1 , channelSetting : 111 , channelNum : 11 , timeSetting : 0700",<br/>
+    "audioLang": "ger",<br/>
+    "tvLock": "2",<br/>
+    "tvcaption": "5",<br/>
+    "har": "1",<br/>
+    "standbyMode": "On",<br/>
+    "limitContents": "Show",<br/>
+    "zappingAd": "0",<br/>
+    "cmIp": "10.4.58.208",<br/>
+    "cmMac": "00097475AA4B",<br/>
+    "barkerCh": "N",<br/>
+    "stbIp": "10.43.81.14",<br/>
+    "loggingTime": "2024/21/09 04:21",<br/>
+    "service env hdr": "NS",<br/>
+    "pmson": "On",<br/>
+    "hostId": "0001E9AC-9569-11E8-9832-4B58C4FE799F",<br/>
+    "homeState": "show",<br/>
+    "favCh": "09,27",<br/>
+    "runningTime": "imin",<br/>
+    "stbModel": "THX-U300",<br/>
+    "audioMode": "2",<br/>
+    "mwVer": "3.1.46",<br/>
+    "limitAge": "0",<br/>
+    "savePwr": "0",<br/>
+    "vodRelay": "off",<br/>
+    "volume": "07",<br/>
+    "vodview": "Text",<br/>
+    "localVer": "1.0.6.03",<br/>
+    "miniEpg": "5",<br/>
+    "service_env_scnratio": "NS",<br/>
+    "macAddr": "00097475AA4A",<br/>
+    "oneAdon": "false"<br/>
 }
 
 ### 기본 스케줄러 사용 방법
