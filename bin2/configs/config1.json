@@ -1,0 +1,12 @@
+{
+  "schedulers" : [ {
+    "name" : "one",
+    "cronStr" : "0/30 * * * * ?",
+    "spec" : "jsonformat2.json",
+    "filePath" : "bin/"
+  } ],
+  "udtServer" : {
+    "ip" : "172.30.211.149",
+    "port" : 8888
+  }
+}
