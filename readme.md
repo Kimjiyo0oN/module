@@ -1,5 +1,55 @@
 ## 사용 방법
 
+### 출력 예시 
+{
+    "chNum": "VOD",
+    "bootMenu": "On",
+    "tvImpaired": "Off",
+    "voiceGuide": "On|3",
+    "stbState": "watching",
+    "resolution": "4",
+    "sendingTime": "2024/21/09 04:21",
+    "cloudVer": "1.6.12",
+    "skiCh": "11,10,15",
+    "mobilePay": "Y",
+    "miniEpgAd": "Off",
+    "easyBuying": "On",
+    "hdmiCec": "true",
+    "service env audio": "NS",
+    "morningAlarm": "repeatSetting : 1 , channelSetting : 111 , channelNum : 11 , timeSetting : 0700",
+    "audioLang": "ger",
+    "tvLock": "2",
+    "tvcaption": "5",
+    "har": "1",
+    "standbyMode": "On",
+    "limitContents": "Show",
+    "zappingAd": "0",
+    "cmIp": "10.4.58.208",
+    "cmMac": "00097475AA4B",
+    "barkerCh": "N",
+    "stbIp": "10.43.81.14",
+    "loggingTime": "2024/21/09 04:21",
+    "service env hdr": "NS",
+    "pmson": "On",
+    "hostId": "0001E9AC-9569-11E8-9832-4B58C4FE799F",
+    "homeState": "show",
+    "favCh": "09,27",
+    "runningTime": "imin",
+    "stbModel": "THX-U300",
+    "audioMode": "2",
+    "mwVer": "3.1.46",
+    "limitAge": "0",
+    "savePwr": "0",
+    "vodRelay": "off",
+    "volume": "07",
+    "vodview": "Text",
+    "localVer": "1.0.6.03",
+    "miniEpg": "5",
+    "service_env_scnratio": "NS",
+    "macAddr": "00097475AA4A",
+    "oneAdon": "false"
+}
+
 ### 기본 스케줄러 사용 방법
 - **bin/config.json**
   - **설명**: 기본 스케줄러 환경 파일인 bin/config.json 소스에서 bin/configSample.json sample 파일 참고해서 사용 가능
